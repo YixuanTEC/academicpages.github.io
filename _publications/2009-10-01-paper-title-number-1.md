@@ -7,8 +7,7 @@ category: online
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2024-11-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/2024_stat pap.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](http://academicpages.github.io/files/2024_stat pap.pdf)'
+paperurl: 'http://academicpages.github.io/files/2024_stat_pap.pdf'
 citation: 'Fan et al. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

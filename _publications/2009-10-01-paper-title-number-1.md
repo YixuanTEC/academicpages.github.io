@@ -4,7 +4,7 @@ based on modified negative binomial operator driven by
 explanatory variables"
 collection: publications
 category: online
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-paper-statistical papers
 date: 2024-11-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/2024_stat_pap.pdf'
